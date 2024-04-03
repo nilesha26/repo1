@@ -419,8 +419,8 @@ button {
 /* Search input styles */
 .search-container input[type="text"] {
   font-size: 12px;
-  background-color: #FFFFFF;
-  border: 0.2px black solid;
+  background-color: rgb(240, 240, 240);
+  border: 0.2px rgb(90, 90, 90);
   outline: black;
   border-radius: 5px;
   /* box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1); */
@@ -575,7 +575,6 @@ li a img {
      display: none;
   }
 }
-
 
 
 
